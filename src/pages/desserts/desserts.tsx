@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 // import cn from "classnames";
 import styles from "./desserts.module.scss";
 import { RecipeRow } from "../../components/recipe-row";

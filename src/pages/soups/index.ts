@@ -1,3 +1,3 @@
-import Soups from "./Soups";
+import Soups from "./soups";
 
 export default Soups ;

@@ -1,3 +1,3 @@
-import Salads from "./Salads";
+import Salads from "./salads";
 
 export default Salads ;

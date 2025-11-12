@@ -1,3 +1,3 @@
-import Snacks from "./Snacks";
+import Snacks from "./snacks";
 
 export default Snacks ;
