@@ -1,0 +1,4 @@
+// {
+//   "eslint.format.enable": false, // Отключаем форматирование через ESLint
+//   "prettier.enable": true
+// }

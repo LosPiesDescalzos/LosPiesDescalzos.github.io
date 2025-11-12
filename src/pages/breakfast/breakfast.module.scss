@@ -1,0 +1,30 @@
+.page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fffff8;
+}
+
+.page-title {
+  position: absolute;
+  top: 200px;
+  left: -50px;
+  width: fit-content;
+  height: fit-content;
+  font-size: 80px;
+  color: #854628;
+  transform: rotate(-90deg);
+  cursor: default;
+}
+
+.recipes {
+  position: absolute;
+  top: 90px;
+  left: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-bottom: 80px;
+}

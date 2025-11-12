@@ -1,0 +1,69 @@
+{
+  "name": "To do: Грузинский салат",
+  "description": "",
+  "preparation_time": {
+    "total": "n минут",
+    "preparation": "n минут",
+    "cooking": "n минут"
+  },
+  "money": "",
+  "difficulty": 0,
+  "options": [],
+  "ingredients": [
+    {
+      "name": "помидоры",
+      "amount": ""
+    },
+    {
+      "name": "огурцы",
+      "amount": ""
+    },
+    {
+      "name": "смесь трав (кинза, петрушка, укроп 6азилик)",
+      "amount": ""
+    },
+    {
+      "name": "масло подсолнечное",
+      "amount": ""
+    },
+    {
+      "name": "малсо оливковое",
+      "amount": ""
+    },
+    {
+      "name": "чеснок",
+      "amount": ""
+    },
+    {
+      "name": "топинги/начинки",
+      "amount": "тык"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": ""
+    },
+    {
+      "step": 2,
+      "instruction": ""
+    },
+    {
+      "step": 3,
+      "instruction": ""
+    },
+    {
+      "step": 4,
+      "instruction": ""
+    },
+    {
+      "step": 5,
+      "instruction": ""
+    },
+    {
+      "step": 6,
+      "instruction": ""
+    }
+  ],
+  "tips": ["", ""]
+}
