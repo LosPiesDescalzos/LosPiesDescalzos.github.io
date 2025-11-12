@@ -15,5 +15,10 @@ export default defineConfig({
     outDir: 'docs',
     assetsDir: 'assets',
     emptyOutDir: true
+  },
+  css: {
+    modules: {
+      localsConvention: 'camelCase'
+    }
   }
 })
