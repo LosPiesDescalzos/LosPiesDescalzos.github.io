@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/',
   plugins: [react()],
   // resolve: {
   //   alias: {
@@ -13,6 +13,7 @@ export default defineConfig({
   // },
   build: {
     outDir: 'docs',
-    assetsDir: 'assets'
+    assetsDir: 'assets',
+    emptyOutDir: true
   }
 })
