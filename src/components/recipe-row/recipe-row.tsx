@@ -4,7 +4,7 @@ import cn from "classnames";
 import { getRecipe } from "../../helpers/data";
 
 import IRecipeRow from "./recipe-row.interface";
-import styles from "./recipe-row.module.scss";
+import styles from "./recipe-row.module.css";
 import { useNavigate } from "react-router-dom";
 
 const RecipeRow: FC<IRecipeRow> = ({ name }) => {

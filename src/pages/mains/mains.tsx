@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 // import cn from "classnames";
-import styles from "./mains.module.scss";
+import styles from "./mains.module.css";
 import { RecipeRow } from "../../components/recipe-row";
 import { mains } from "../../helpers/data";
 

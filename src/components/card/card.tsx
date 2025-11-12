@@ -4,7 +4,7 @@ import cn from "classnames";
 import { getRecipe } from "../../helpers/data";
 
 import ICard from "./card.interface";
-import styles from "./card.module.scss";
+import styles from "./card.module.css";
 import { useParams } from "react-router-dom";
 
 const Card: FC<ICard> = () => {
