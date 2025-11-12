@@ -4,11 +4,15 @@ import path from 'path';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/lospiesdescalzos.github.io/',
+  base: '/',
   plugins: [react()],
   resolve: {
     alias: {
       '@recipes': path.resolve(__dirname, './src/resipes-data')
     }
+  },
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets'
   }
 })
