@@ -40,21 +40,28 @@ const Home = () => {
           супы
         </div>
         <div
-          style={{ backgroundColor: "#7C7458", paddingLeft: "250px" }}
+          style={{ backgroundColor: "#7E9794", paddingLeft: "200px" }}
+          className={styles["home-button"]}
+          onClick={() => navigate("/mains")}
+        >
+          основной курс
+        </div>
+        <div
+          style={{ backgroundColor: "#E0BB72", paddingLeft: "250px" }}
           className={styles["home-button"]}
           onClick={() => navigate("/salads")}
         >
           салаты
         </div>
         <div
-          style={{ backgroundColor: "#854628", paddingLeft: "350px" }}
+          style={{ backgroundColor: "#7E9794", paddingLeft: "300px" }}
           className={styles["home-button"]}
           onClick={() => navigate("/pastas")}
         >
           пасты
         </div>
         <div
-          style={{ backgroundColor: "#7E9794", paddingLeft: "450px" }}
+          style={{ backgroundColor: "#E0BB72", paddingLeft: "350px" }}
           className={styles["home-button"]}
           onClick={() => navigate("/snacks")}
         >

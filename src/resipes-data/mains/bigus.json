@@ -1,0 +1,81 @@
+{
+  "name": "To do: Бигус",
+  "description": "",
+  "preparation_time": {
+    "total": "n минут",
+    "preparation": "n минут",
+    "cooking": "n минут"
+  },
+  "money": "",
+  "difficulty": 0,
+  "options": [],
+  "ingredients": [
+    {
+      "name": "свинина пожирнее",
+      "amount": ""
+    },
+    {
+      "name": "капуста белокачанная",
+      "amount": ""
+    },
+    {
+      "name": "охотничьи колбаски",
+      "amount": ""
+    },
+    {
+      "name": "лук репчатый",
+      "amount": ""
+    },
+    {
+      "name": "томатная паста",
+      "amount": ""
+    },
+    {
+      "name": "масло сливочное",
+      "amount": ""
+    },
+    {
+      "name": "лавровый лист",
+      "amount": ""
+    },
+    {
+      "name": "соль",
+      "amount": ""
+    },
+    {
+      "name": "черный перец",
+      "amount": ""
+    },
+    {
+      "name": "лавровый лист",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": ""
+    },
+    {
+      "step": 2,
+      "instruction": ""
+    },
+    {
+      "step": 3,
+      "instruction": ""
+    },
+    {
+      "step": 4,
+      "instruction": ""
+    },
+    {
+      "step": 5,
+      "instruction": ""
+    },
+    {
+      "step": 6,
+      "instruction": ""
+    }
+  ],
+  "tips": ["", ""]
+}

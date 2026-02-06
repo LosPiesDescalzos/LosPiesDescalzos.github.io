@@ -1,0 +1,73 @@
+{
+  "name": "To do: Карри",
+  "description": "",
+  "preparation_time": {
+    "total": "n минут",
+    "preparation": "n минут",
+    "cooking": "n минут"
+  },
+  "money": "",
+  "difficulty": 0,
+  "options": [],
+  "ingredients": [
+    {
+      "name": "рис жасмин",
+      "amount": "250 грамм"
+    },
+    {
+      "name": "карри приправа",
+      "amount": "1/2 упаковка"
+    },
+    {
+      "name": "кокосовые сливки",
+      "amount": "250 грамм"
+    },
+    {
+      "name": "томатная паста",
+      "amount": "35 грамм"
+    },
+    {
+      "name": "куриные бедра",
+      "amount": "500 грамм"
+    },
+    {
+      "name": "перец болгарский",
+      "amount": "1 крупный"
+    },
+    {
+      "name": "морковь",
+      "amount": "2 средние"
+    },
+    {
+      "name": "свежий горошек",
+      "amount": "70 грамм"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": ""
+    },
+    {
+      "step": 2,
+      "instruction": ""
+    },
+    {
+      "step": 3,
+      "instruction": ""
+    },
+    {
+      "step": 4,
+      "instruction": ""
+    },
+    {
+      "step": 5,
+      "instruction": ""
+    },
+    {
+      "step": 6,
+      "instruction": ""
+    }
+  ],
+  "tips": ["главное в рисе - чтобы был пропаренный"]
+}

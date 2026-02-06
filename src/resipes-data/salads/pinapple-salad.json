@@ -1,0 +1,77 @@
+{
+  "name": "В процессе: Салат с ананасом и курочкой",
+  "description": "",
+  "preparation_time": {
+    "total": "n минут",
+    "preparation": "n минут",
+    "cooking": "n минут"
+  },
+  "money": "",
+  "difficulty": 0,
+  "options": [],
+  "ingredients": [
+    {
+      "name": "куриная грудка",
+      "amount": ""
+    },
+    {
+      "name": "ананас",
+      "amount": ""
+    },
+    {
+      "name": "сыр",
+      "amount": ""
+    },
+    {
+      "name": "",
+      "amount": ""
+    },
+    {
+      "name": "",
+      "amount": ""
+    },
+    {
+      "name": "",
+      "amount": ""
+    },
+    {
+      "name": "",
+      "amount": ""
+    },
+    {
+      "name": "",
+      "amount": ""
+    },
+    {
+      "name": "",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": ""
+    },
+    {
+      "step": 2,
+      "instruction": ""
+    },
+    {
+      "step": 3,
+      "instruction": ""
+    },
+    {
+      "step": 4,
+      "instruction": ""
+    },
+    {
+      "step": 5,
+      "instruction": ""
+    },
+    {
+      "step": 6,
+      "instruction": ""
+    }
+  ],
+  "tips": ["обжарить ананас - будет ярче"]
+}

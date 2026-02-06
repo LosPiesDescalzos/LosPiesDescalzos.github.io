@@ -1,0 +1,37 @@
+{
+  "name": "Домашний салат",
+  "description": "",
+  "preparation_time": {
+    "total": "10 минут",
+    "preparation": "5 минут",
+    "cooking": "5 минут"
+  },
+  "money": "400",
+  "difficulty": 1,
+  "options": [],
+  "ingredients": [
+    {
+      "name": "кириешки бекон-сыр",
+      "amount": "2 штуки"
+    },
+    {
+      "name": "фасоль в собственном соку",
+      "amount": "1 банка"
+    },
+    {
+      "name": "маринованные корнишоны",
+      "amount": "1 небольшая банка"
+    }
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "instruction": "огурчики нарезать кружочками"
+    },
+    {
+      "step": 2,
+      "instruction": "все смешать"
+    }
+  ],
+  "tips": ["", ""]
+}
